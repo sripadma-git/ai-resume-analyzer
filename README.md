@@ -44,6 +44,27 @@ npm run build
 
 ## Deployment
 
+## ✅ Deployment on Puter
+
+Step-by-step guide:
+
+Step 1: Create a Puter account for free at puter.com.
+
+Step 2: Sign up using your email ID.
+
+Step 3: Create a new app to start deploying your project.
+
+Step 4: Go to the app's Settings, and locate the "Deploy" section.
+
+Step 5: Drag and drop the client folder of your project into the deploy area.
+
+Step 6: Wait for a few minutes—once done, you will see a “Successfully deployed” message.
+
+ Step 7:You’ll get a live link to access your project online.
+
+## Project Link : https://puter.com/app/ai-resume-analyzer-10
+
+
 ### Docker Deployment
 
 To build and run using Docker:
