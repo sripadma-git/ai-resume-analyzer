@@ -109,6 +109,10 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
+
 By: sri padma chinta
+
+
 Jaahnavi Kolli
 
